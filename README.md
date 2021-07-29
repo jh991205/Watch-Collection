@@ -1,2 +1,2 @@
-A watch collection website. Built the website with php and the database with sql.
+A watch collection website. Built the website with php and the database with sql. Database includes basic information such as price, brand, tag for the watches. Included a login system for different users to use. Normal users are only allowed to view the watch collection and add tags for different watches. Normal users can also add tags that already exist for the watches. Admins are allowed to add and delete watches or create additional tags on top of what normal users can do. Login details are included in the sql file comments section.
 To run the website, host a local php server and direct to localhost:8000
