@@ -14,7 +14,7 @@ To run the website locally, follow the steps below:
 git clone https://github.com/jh991205/Watch-Collection
 ```
 
-3. Import the provided SQL file (`database.sql`) into your SQL database to create the necessary tables and data. The login details for the different users are included as comments in the SQL file.
+3. Check out the login details for the different users are included as comments in the SQL file.
 
 4. Start a local PHP server and direct your browser to `localhost:8000`.
 
